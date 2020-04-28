@@ -1,0 +1,1 @@
+console.log("This is a base react project structure created by Kennan")
